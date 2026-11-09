@@ -1,0 +1,1 @@
+g++ raylib_triangle.cpp -o raylib_app -I/opt/homebrew/Cellar/raylib/6.2/include -L/opt/homebrew/Cellar/raylib/6.2/lib -lraylib
